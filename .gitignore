@@ -2,7 +2,7 @@
 target
 
 # Intellij files
-.idea
+*.idea
 
 # Intellij .iml files
 *.iml
